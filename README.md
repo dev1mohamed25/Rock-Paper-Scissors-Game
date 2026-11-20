@@ -1,10 +1,10 @@
-# 🪨📄✂️ Rock-Paper-Scissors Console Game (C++)
+# Rock-Paper-Scissors Console Game (C++)
 
 A classic console-based **Rock-Paper-Scissors** game developed in **C++**, applying structured programming principles, clean modular functions, enumerations (`enum`), and structures (`struct`) to manage game states, rounds, and final results.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Customizable Rounds:** Choose how many rounds you want to play (from 1 to 10 rounds) per session.
 - **Interactive Gameplay:** Play directly against a randomized computer opponent.
@@ -17,7 +17,7 @@ A classic console-based **Rock-Paper-Scissors** game developed in **C++**, apply
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Language:** C++
 - **IDE:** Microsoft Visual Studio 2022
@@ -25,13 +25,13 @@ A classic console-based **Rock-Paper-Scissors** game developed in **C++**, apply
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Open the solution file (`.sln`) in **Visual Studio 2022**.
 2. Press **`Ctrl + F5`** to build and run the game.
 
 ---
 
-## 👤 Author
+## Author
 
-- **GitHub:** [@dev1mohamed25](https://github.com/dev1mohamed25)
+- **GitHub:** (https://github.com/dev1mohamed25)
